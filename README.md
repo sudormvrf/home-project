@@ -1,0 +1,1 @@
+This is an assortment of configuration files, scripts, and other scratch that I'm using to learn about the concepts and techniques concerning network device automation, cloud engineering, and full stack development.
